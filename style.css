@@ -57,7 +57,7 @@ section {
 	transform-style: preserve-3d;
 	backface-visibility: hidden;
 
-  transform: rotateX(320deg) rotateY(-230deg);
+  transform: rotateX(10deg) rotateY(20deg);
 }
 
 div.face {
@@ -111,6 +111,7 @@ div.face-back {
 
 .button {
   position: absolute;
+  width: 220px;
   bottom: 10px;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
