@@ -1,0 +1,70 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="white"/>
+<rect y="384" width="64" height="64" fill="#392C1B"/>
+<rect x="64" y="384" width="64" height="64" fill="#392C1B"/>
+<rect x="64" y="384" width="64" height="64" fill="#392C1B"/>
+<rect x="128" y="448" width="64" height="64" fill="#392C1B"/>
+<rect y="320" width="64" height="64" fill="#271D10"/>
+<rect x="64" y="320" width="64" height="64" fill="#322617"/>
+<rect x="128" y="320" width="64" height="64" fill="#2E2316"/>
+<rect x="192" y="320" width="64" height="64" fill="#322617"/>
+<rect x="256" y="320" width="64" height="64" fill="#392C1B"/>
+<rect y="448" width="64" height="64" fill="#322617"/>
+<rect x="384" y="320" width="64" height="64" fill="#B9947E"/>
+<rect x="320" y="320" width="64" height="64" fill="#A7876D"/>
+<rect y="256" width="64" height="64" fill="#392C1B"/>
+<rect x="64" y="128" width="64" height="64" fill="#3A2D1B"/>
+<rect x="128" y="256" width="64" height="64" fill="#392C1B"/>
+<rect x="320" y="320" width="64" height="64" fill="#322617"/>
+<rect x="384" y="320" width="64" height="64" fill="#2E2316"/>
+<rect x="320" y="256" width="64" height="64" fill="#3A2D1B"/>
+<rect x="384" y="256" width="64" height="64" fill="#392C1B"/>
+<rect x="192" y="256" width="64" height="64" fill="#3F3221"/>
+<rect x="256" y="256" width="64" height="64" fill="#2C2011"/>
+<rect x="320" y="192" width="64" height="64" fill="#392C1B"/>
+<rect x="256" y="448" width="64" height="64" fill="#392C1B"/>
+<rect x="448" y="192" width="64" height="64" fill="#3F3221"/>
+<rect x="448" y="320" width="64" height="64" fill="#3F3221"/>
+<rect x="192" y="448" width="64" height="64" fill="#3F3221"/>
+<rect x="448" y="256" width="64" height="64" fill="#2C2011"/>
+<rect x="384" y="384" width="64" height="64" fill="#2C2011"/>
+<rect y="192" width="64" height="64" fill="#2E2316"/>
+<rect x="64" y="192" width="64" height="64" fill="#322617"/>
+<rect x="128" y="192" width="64" height="64" fill="#2B2216"/>
+<rect x="192" y="192" width="64" height="64" fill="#271D10"/>
+<rect x="256" y="192" width="64" height="64" fill="#2E2316"/>
+<rect x="320" y="384" width="64" height="64" fill="#392C1B"/>
+<rect x="448" y="384" width="64" height="64" fill="#392C1B"/>
+<rect x="128" y="384" width="64" height="64" fill="#2B2216"/>
+<rect x="192" y="384" width="64" height="64" fill="#271D10"/>
+<rect x="256" y="384" width="64" height="64" fill="#2E2316"/>
+<rect x="64" y="448" width="64" height="64" fill="#2E2316"/>
+<rect x="384" y="192" width="64" height="64" fill="#271D10"/>
+<rect x="384" y="448" width="64" height="64" fill="#3F3221"/>
+<rect x="448" y="448" width="64" height="64" fill="#271D10"/>
+<rect y="128" width="64" height="64" fill="#281E11"/>
+<rect x="64" y="256" width="64" height="64" fill="#281E11"/>
+<rect x="128" y="128" width="64" height="64" fill="#322617"/>
+<rect x="192" y="128" width="64" height="64" fill="#322617"/>
+<rect x="256" y="128" width="64" height="64" fill="#392C1B"/>
+<rect x="320" y="128" width="64" height="64" fill="#3A2D1B"/>
+<rect x="320" y="448" width="64" height="64" fill="#3A2D1B"/>
+<rect x="384" y="128" width="64" height="64" fill="#322617"/>
+<rect x="448" y="128" width="64" height="64" fill="#281E11"/>
+<rect y="64" width="64" height="64" fill="#2C2011"/>
+<rect x="64" y="64" width="64" height="64" fill="#42321C"/>
+<rect x="128" y="64" width="64" height="64" fill="#392C1B"/>
+<rect x="192" y="64" width="64" height="64" fill="#3A2D1B"/>
+<rect x="256" y="64" width="64" height="64" fill="#42321C"/>
+<rect x="320" y="64" width="64" height="64" fill="#392C1B"/>
+<rect x="384" y="64" width="64" height="64" fill="#3F3221"/>
+<rect x="448" y="64" width="64" height="64" fill="#2E2316"/>
+<rect width="64" height="64" fill="#302517"/>
+<rect x="64" width="64" height="64" fill="#322617"/>
+<rect x="128" width="64" height="64" fill="#352715"/>
+<rect x="192" width="64" height="64" fill="#3C2D1A"/>
+<rect x="256" width="64" height="64" fill="#3D2E1B"/>
+<rect x="320" width="64" height="64" fill="#33281B"/>
+<rect x="384" width="64" height="64" fill="#271D10"/>
+<rect x="448" width="64" height="64" fill="#2B2216"/>
+</svg>

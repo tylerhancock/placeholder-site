@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'NBInternationalPro-Mono';
+  src: url('webfonts/NBInternationalPro-Mono.eot');
+  src: url('webfonts/NBInternationalPro-Mono.eot?#iefix') format('embedded-opentype'),
+       url('webfonts/NBInternationalPro-Mono.woff2') format('woff2'),
+       url('webfonts/NBInternationalPro-Mono.woff') format('woff'),
+       url('webfonts/NBInternationalPro-Mono.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3,
+h4, h5, h6,
+p, span, li, a {
+  font-family: 'NBInternationalPro-Mono';
+  font-weight: normal;
+  font-style: normal;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+     -moz-font-smoothing: antialiased;
+       -o-font-smoothing: antialiased;
+}
+
+a {
+  background: #000;
+  color: #fff;
+  border-radius: 48px;
+  text-decoration: none;
+  opacity: 1;
+  transition: .3s opacity;
+  -webkit-transition: .3s opacity;
+  -moz-transition: .3s opacity;
+  -o-transition: .3s opacity;
+}
+
+a:hover, a:focus {
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  opacity: .5;
+  transition: .3s opacity;
+  -webkit-transition: .3s opacity;
+  -moz-transition: .3s opacity;
+  -o-transition: .3s opacity;
+}
+
+body {
+	perspective: 1500px;
+  height: 100vh;
+}
+
+section {
+	position: absolute;
+	top: 45%;
+	left: 50%;
+
+	transform-style: preserve-3d;
+	backface-visibility: hidden;
+
+  transform: rotateX(320deg) rotateY(-230deg);
+}
+
+div.face {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-size: cover;
+}
+
+div.face-front {
+  height: 256px;
+  width: 256px;
+  background-image: url(Face-Front.svg);
+  transform: translateX(-50%) translateY(-50%) translateZ(128px);
+}
+
+div.face-side-right {
+  height: 256px;
+  width: 256px;
+  background-image: url(Face-Side-Right.svg);
+  transform: translateX(-50%) translateY(-50%) rotateY(-90deg) translateZ(-128px);
+}
+
+div.face-side-left {
+  height: 256px;
+  width: 256px;
+  background-image: url(Face-Side-Left.svg);
+  transform: translateX(-50%) translateY(-50%) rotateY(-90deg) translateZ(128px);
+}
+
+div.face-top {
+  height: 256px;
+  width: 256px;
+  background-image: url(Face-Top.svg);
+  transform: translateX(-50%) translateY(-50%) rotateX(90deg) translateZ(128px);
+}
+
+div.face-bottom {
+  height: 256px;
+  width: 256px;
+  background-image: url(Face-Bottom.svg);
+  transform: translateX(-50%) translateY(-50%) rotateX(-90deg) translateZ(128px);
+}
+
+div.face-back {
+  height: 256px;
+  width: 256px;
+  background-image: url(Face-Back.svg);
+  transform: translateX(-50%) translateY(-50%) rotateY(-180deg) translateZ(128px);
+}
+
+.button {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+
+
